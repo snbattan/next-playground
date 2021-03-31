@@ -1,2 +1,3 @@
 # next-playground
-Learning how NextJS works
+
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
